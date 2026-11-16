@@ -1,0 +1,132 @@
+{
+  "photos": [
+    {
+      "id": "photo-01",
+      "title": "Graduation group selfie",
+      "description": "A group selfie of people wearing blue graduation gowns with orange stoles.",
+      "file": "photos/photo-01.jpg",
+      "source": "https://github.com/user-attachments/assets/588143ed-02dd-4bd2-9caa-f7c91504dcb5"
+    },
+    {
+      "id": "photo-02",
+      "title": "On the graduation stage",
+      "description": "A wide photograph of two people standing together on a decorated stage in an auditorium.",
+      "file": "photos/photo-02.jpg",
+      "source": "https://github.com/user-attachments/assets/bbf82954-2c40-4248-adff-3b0215eb14af"
+    },
+    {
+      "id": "photo-03",
+      "title": "Graduation portrait",
+      "description": "A full-length portrait of a graduate in a blue gown and cap, holding a light blue document folder.",
+      "file": "photos/photo-03.jpg",
+      "source": "https://github.com/user-attachments/assets/5192211c-f12e-4afd-9465-0c913e5bc87b"
+    },
+    {
+      "id": "photo-04",
+      "title": "Graduation group in the hallway",
+      "description": "Five graduates standing together indoors in blue gowns and orange stoles.",
+      "file": "photos/photo-04.jpg",
+      "source": "https://github.com/user-attachments/assets/82aa1550-1a4a-438e-b5ab-efe2b53f01a4"
+    },
+    {
+      "id": "photo-05",
+      "title": "Graduation group against a wall",
+      "description": "Six graduates standing side by side in blue gowns, caps and orange stoles.",
+      "file": "photos/photo-05.jpg",
+      "source": "https://github.com/user-attachments/assets/7fe1fb33-7145-41f2-8ac9-784a2cd7fbd2"
+    },
+    {
+      "id": "photo-06",
+      "title": "Portrait in a dark cap",
+      "description": "A close side-profile portrait of a person wearing a dark cap and glasses, with soft greenery in the background.",
+      "file": "photos/photo-06.jpg",
+      "source": "https://github.com/user-attachments/assets/99082656-a10b-46dc-9214-61a140254609"
+    },
+    {
+      "id": "photo-07",
+      "title": "Clock-tower walk",
+      "description": "A person in a light cap and shirt looking to the side, with a historic clock tower behind them.",
+      "file": "photos/photo-07.jpg",
+      "source": "https://github.com/user-attachments/assets/bfd94221-c10e-4796-be01-35b828132c9f"
+    },
+    {
+      "id": "photo-08",
+      "title": "Park portrait",
+      "description": "A person in a dark shirt standing on a path among green trees and grass.",
+      "file": "photos/photo-08.jpg",
+      "source": "https://github.com/user-attachments/assets/dcd8e508-1409-491e-a20e-406c4af85c6f"
+    },
+    {
+      "id": "photo-09",
+      "title": "Together at an event",
+      "description": "Three people smiling together for a photograph against a pale draped backdrop.",
+      "file": "photos/photo-09.jpg",
+      "source": "https://github.com/user-attachments/assets/1fe39df7-57cb-4e5e-b22f-aa8d446fa305"
+    },
+    {
+      "id": "photo-10",
+      "title": "Laptops at the desk",
+      "description": "Two open laptops on a desk in a study space, with code visible on one screen.",
+      "file": "photos/photo-10.jpg",
+      "source": "https://github.com/user-attachments/assets/b8a2b803-3359-4bf2-8350-c92bb0c903b2"
+    },
+    {
+      "id": "photo-11",
+      "title": "Looking up beside the tower",
+      "description": "A low-angle outdoor portrait of a person wearing a light blue shirt and dark trousers, with an observation tower rising behind them.",
+      "file": "photos/photo-11.jpg",
+      "source": "https://github.com/user-attachments/assets/4f2ad5ff-d6c6-4de2-a67b-6ab9060bf27a"
+    },
+    {
+      "id": "photo-12",
+      "title": "Graduation stage moment",
+      "description": "A wide stage photograph of a graduate in a light suit standing beside a presenter, with flags and chairs nearby.",
+      "file": "photos/photo-12.jpg",
+      "source": "https://github.com/user-attachments/assets/2f5f91a8-cd42-4024-9484-9f4b60a5001d"
+    },
+    {
+      "id": "photo-13",
+      "title": "Formal group portrait",
+      "description": "Three people standing together in formal clothing against a pale curtain backdrop.",
+      "file": "photos/photo-13.jpg",
+      "source": "https://github.com/user-attachments/assets/95354d1e-212c-4f28-9bb3-f21e0cdc9957"
+    },
+    {
+      "id": "photo-14",
+      "title": "By the water",
+      "description": "A person wearing glasses and a light shirt sitting beside water, with trees behind them.",
+      "file": "photos/photo-14.jpg",
+      "source": "https://github.com/user-attachments/assets/005c9e46-06d6-4958-88da-e74831365562"
+    },
+    {
+      "id": "photo-15",
+      "title": "Window seat on the train",
+      "description": "A person in a light cap and shirt sitting beside a train window, looking outside.",
+      "file": "photos/photo-15.jpg",
+      "source": "https://github.com/user-attachments/assets/8e6ae1f1-d672-4cf2-b19f-1d972d59307e"
+    },
+    {
+      "id": "photo-16",
+      "title": "Smiling graduation portrait",
+      "description": "A smiling graduate wearing glasses, a black gown and a striped stole, holding a document folder.",
+      "file": "photos/photo-16.jpg",
+      "source": "https://github.com/user-attachments/assets/d6749aca-88e6-4d48-b185-857c818ab3e7"
+    },
+    {
+      "id": "photo-17",
+      "title": "Snowy courtyard after dark",
+      "description": "A person standing in a snowy courtyard beneath an arch, with buildings and trees in the background.",
+      "file": "photos/photo-17.jpg",
+      "source": "https://github.com/user-attachments/assets/3a87bba7-8b32-49c4-9051-000fec2ae08f"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Praying indoors",
+      "description": "A short portrait video of a child praying indoors beside a cabinet and a window, as identified in the supplied brief.",
+      "file": "videos/praying.mp4",
+      "poster": "videos/praying-poster.jpg",
+      "source": "https://github.com/user-attachments/assets/711a0170-c6af-4a99-89bd-b7e0a7d0699c"
+    }
+  ]
+}
